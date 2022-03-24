@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
 ╠➥ Topup/Pin
 ║
 ╠═ Tertarik Untuk Beli Bot Ini?
-╠➥Klil Button Di Bawah
+╠➥Klik Button Di Bawah
 ║
 ╠═〘 Hyzer 〙 ═`.trim(), '❖ Kanao-Bot', 'Gopay', '#viadigi', 'Dana', '#viaumobile', m)
 }
