@@ -22,12 +22,14 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ║│➸ *Uptime:* ${uptime}
 ║│
 ║╭─❉〘 𝐆𝐑𝐎𝐔𝐏 𝐁𝐎𝐓 〙❉─
-║│➸ 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗚𝗿𝗼𝘂𝗽 𝗕𝗼𝘁¹
-║│➸ https://tinyurl.com/y7xymnkd
+║│➸ 𝗚𝗿𝗼𝘂𝗽 𝗕𝗼𝘁
+║│➸ https://chat.whatsapp.com/JYxcOosnZ2OFf83tAvtMm4
 ║│
-║│➸ 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗚𝗿𝗼𝘂𝗽 𝗕𝗼𝘁²
-║│➸ https://tinyurl.com/yc92fva7
+║│➸ 𝗚𝗿𝗼𝘂𝗽 𝗦𝗮𝗵𝘂𝗿
+║│➸ https://chat.whatsapp.com/DQVwFSR8zITChOmkIVdNOl
 ║│
+║│➸ 𝗚𝗿𝗼𝘂𝗽 𝗕𝘂𝗸𝗯𝗲𝗿
+║│➸https://chat.whatsapp.com/IX8bwTtLhn5D6CBbLDFC9K
 ║│ ${readMore}
 ║╭─❉〘 𝐏𝐑𝐈𝐕𝐀𝐂𝐘 𝐁𝐎𝐓 〙❉─
 ║│➸ *KAMI TIDAK BERTANGGUNG*
