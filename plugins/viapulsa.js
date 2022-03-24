@@ -4,7 +4,7 @@ let info = `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via Dana
 ╠➥ *6282361160044*
 ╠➥ Chat Owner:
-║- wa.me/6287892711054
+║- wa.me/6288224465258
 ╠═〘 Hyzer 〙 ═
 `.trim()
 
