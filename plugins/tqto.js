@@ -4,7 +4,9 @@ BIG THANKS TO
 
 ➸ Allah S.W.T
 ➸ My Parent
-➸ Hyzer ( pemilik bot )
+➸ Hyzer 
+➸ Arul
+➸ Kanao (Bot)
 ➸ Shiro (Bot)
 ➸ Exc (membantu)
 ➸ Tio (membantu)
