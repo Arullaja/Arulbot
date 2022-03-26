@@ -3,8 +3,7 @@ let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, await (await fet
 *────── 「 SCRIPT 」 ──────*
 Hai 👋
 
-Bot Ini Menggunakan Sc dari github
-Https://github.com/Drz103/RadBot
+Bot Ini Menggunakan Sc dari 
 `.trim(), '©souce code', 'Thanks', '.tqto')
 handler.help = ['donasi']
 handler.tags = ['info']
