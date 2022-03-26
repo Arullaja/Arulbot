@@ -19,6 +19,9 @@ let stiker = await sticker(null, result, 'Kiss', '©RadBotZ')
 }
 handler.help = ['hentaigif']
 handler.tags = ['hentai']
+
 handler.command = /^hentaigif$/i
+handler.limit = true
+handler.premium = true
 
 module.exports = handler
