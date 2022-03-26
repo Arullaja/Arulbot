@@ -9,5 +9,7 @@ handler.help = ['uniform <erorr>']
 handler.tags = ['hentai']
 
 handler.command = /^(uniform)$/i
+handler.limit = true
+handler.premium = true
 
 module.exports = handler
