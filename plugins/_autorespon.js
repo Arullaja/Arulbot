@@ -32,12 +32,12 @@ handler.all = async function (m, { isBlocked }) {
 ╠➥ *1 Minggu* :      *Rp 5.000*
 ╠➥ *2 Minggu* : *Rp 9.000*
 ╠➥ *3 Minggu* :   *Rp 13.500*
-╠➥ *1 Bulan* :        *Rm 15.000*
+╠➥ *1 Bulan* :        *Rp 15.000*
 ║
 ╠═〘 𝐏𝐄𝐌𝐁𝐀𝐘𝐀𝐑𝐀𝐍 〙 ═
 ╠➥ TOPUP/PIN
-║- 60149431385 (Digi)
-║- 60189830350 (Umobile)
+║- 0882001113526 (Dana)
+║- 082130295912 (pulsa)
 ╠═〘 Arull 〙 ═`.trim(), '©Rul-botz', 'Digi', '#viadigi', 'Umobile', '#viaumobile', m)
 }
 
