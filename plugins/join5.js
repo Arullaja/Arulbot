@@ -26,6 +26,8 @@ handler.help = ['join5 <linkgrup> ']
 handler.tags = ['main']
 handler.command = /^join5$/i
 
+handler.premium = true
+
 handler.limit = 20
 
 module.exports = handler
