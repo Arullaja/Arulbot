@@ -37,9 +37,9 @@ Donasi/Sewa? Chat Owner
 }
 conn.sendMessage(m.chat, buttonsMessage, 'buttonsMessage', { quoted: test})
 }
-handler.help = ['owner', 'creator']
+handler.help = ['owner', 'owner']
 handler.tags = ['info']
 
-handler.command = /^(owner|creator)$/i
+handler.command = /^(owner|owner)$/i
 
 module.exports = handler
