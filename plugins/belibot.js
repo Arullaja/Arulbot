@@ -7,12 +7,14 @@ let handler = async (m, { conn }) => {
 ╠➥ *Trial* :   *Rp 0*
 ║
 ╠═〘 𝐏𝐄𝐌𝐁𝐀𝐘𝐀𝐑𝐀𝐍 〙 ═
-╠➥ Topup/Pin
+╠➥ Dana 
+╠➥ Ovo
+╠➥ Pulsa
 ║
 ╠═ Tertarik Untuk Beli Bot Ini?
 ╠➥Klik Button Di Bawah
 ║
-╠═〘 Hyzer 〙 ═`.trim(), '❖ Kanao-Bot', 'Gopay', '#viadigi', 'Dana', '#viaumobile', m)
+╠═〘 Arul 〙 ═`.trim(), '❖ Rull-Bot', 'Gopay', '#viadigi', 'Dana', '#viaumobile', m)
 }
 
 handler.command = /^sewabot$/i
