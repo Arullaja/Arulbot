@@ -14,7 +14,7 @@ let handler = async (m, { conn }) => {
 ╠═ Tertarik Untuk Beli Bot Ini?
 ╠➥Klik Button Di Bawah
 ║
-╠═〘 Arul 〙 ═`.trim(), '❖ Rull-Bot', 'Dana', '#viadigi', 'Pulsa', '#viaumobile', m)
+╠═〘 Arul 〙 ═`.trim(), '❖ Rull-Bot', 'Dana', '#viadigi', 'Ovo', '#viaumobile', 'Owner', '#owner', m)
 }
 
 handler.command = /^(sewabot|sewa)$/i
