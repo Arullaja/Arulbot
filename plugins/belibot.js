@@ -17,6 +17,6 @@ let handler = async (m, { conn }) => {
 ╠═〘 Arul 〙 ═`.trim(), '❖ Rull-Bot', 'Gopay', '#viadigi', 'Dana', '#viaumobile', m)
 }
 
-handler.command = /^sewabot$/i
+handler.command = /^(sewabot|sewa)$/i
 
 module.exports = handler
