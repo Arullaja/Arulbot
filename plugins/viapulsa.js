@@ -1,8 +1,8 @@
 
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `╠═〘 PEMBAYARAN 〙 ═
-╠═ Untuk Pembayaran Via Pulsa
-╠➥ *082130295912*
+╠═ Untuk Pembayaran Via Ovo
+╠➥ *081310312459*
 ╠➥ Chat Owner:
 ║- wa.me/6288224465258
 ╠═〘 Hyzer 〙 ═
