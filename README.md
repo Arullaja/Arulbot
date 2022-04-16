@@ -35,7 +35,7 @@ Edit Nomor Owner DLL `'./config.js'`
 ```ts 
 OwnerNumber = ['wa.me/6288224465258']
 GithubOwner = ['https://github.com/Arullaja']
-GroupOwner = ['https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD']
+GroupOwner = ['https://chat.whatsapp.com/Cy8O89Fw3KFDMEbKtC5NxN']
 Apikey? = Apikey kalian, tidak paham? chat saya di wangsaf!
 
 Thumbnail
@@ -71,5 +71,5 @@ node .
 ---------
 
 # My Sosial 
-- [Group ](https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD) 
+- [Group ](https://chat.whatsapp.com/Cy8O89Fw3KFDMEbKtC5NxN) 
 - [Whatsapp ](https://wa.me/6288224465258)
