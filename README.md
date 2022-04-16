@@ -3,7 +3,7 @@
 
 </p>
 <h1 align="center">NUMPANG NAMA DOANG KOK BANGGA</h1>
-<p align="center"> <a href="https://Lexxy24.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Hyzerr+🗿" alt="Lexxy Official" /> </a> </p>
+<p align="center"> <a href="https://Lexxy24.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Arul+&+Hyzerr+🗿" alt="Lexxy Official" /> </a> </p>
 <p align="center">
 <a href="#"><img title="Shiro-Botz" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -33,8 +33,8 @@ Tutorial YouTube
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
 ```ts 
-OwnerNumber = ['wa.me/6287892711054']
-GithubOwner = ['https://github.com/Hyzerr']
+OwnerNumber = ['wa.me/6288224465258']
+GithubOwner = ['https://github.com/Arullaja']
 GroupOwner = ['https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD']
 Apikey? = Apikey kalian, tidak paham? chat saya di wangsaf!
 
@@ -72,4 +72,4 @@ node .
 
 # My Sosial 
 - [Group ](https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD) 
-- [Whatsapp ](https://wa.me/6287892711054)
+- [Whatsapp ](https://wa.me/6288224465258)
